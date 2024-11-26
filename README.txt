@@ -36,4 +36,4 @@ This project was inspired by the work of researchers in the field of medical ima
 The dataset used in this project is provided by the International Skin Imaging Collaboration (ISIC).
 This project was based on the tutorial Custom CNN Model for Image Classification.
 Contact
-Created by @githubusername - feel free to contact me!
+Created by https://github.com/rajasekhar-lab/Melanoma-Detection-Using-CNN .
